@@ -18,14 +18,14 @@ app.use(bodyParser.json());
 
 // 브랜드이미지 저장 경로
 const brandImageStorage = multer.diskStorage({
-    destination: '/workspace/HealthMachineProject/client/public/brand_images',
+    destination: 'client/public/brand_images',
     filename: (req, file, cb) => {
         cb(null, `${Date.now()}-${file.originalname}`);
     },
 });
 // 머신이미지 저장 경로
 const machineImageStorage = multer.diskStorage({
-    destination: '/workspace/HealthMachineProject/client/public/machine_images',
+    destination: 'client/public/machine_images',
     filename: (req, file, cb) => {
         cb(null, `${Date.now()}-${file.originalname}`);
     },
