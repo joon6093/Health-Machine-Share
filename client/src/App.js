@@ -22,13 +22,6 @@ const StyledLink = styled(Link)({
   margin: '0 10px',
 });
 
-const Name = styled('div')({
-  textAlign: 'center',
-  marginTop: '20px',
-  fontWeight: 'bold',
-  fontSize: '18px',
-});
-
 function App() {
   return (
     <div className="App">
@@ -70,8 +63,6 @@ function App() {
           />
         </Routes>
       </Router>
-
-      <Name>20190633 송제용</Name>
     </div>
   );
 }
