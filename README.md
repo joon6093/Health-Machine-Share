@@ -1,8 +1,6 @@
 # Health Machine Share
 ![image](https://github.com/joon6093/Health-Machine-Share/assets/118044367/0ad96fd3-615f-492a-ab93-d8859b95684f)
-> "Health Machine Share"는 사용자들이 헬스 머신에 대한 평가와 리뷰를 관리하고 공유할 수 있는 웹 기반 프로그램이다.
-> 
-> 사용자들은 다양한 종류의 헬스 머신에 대한 평가와 리뷰를 작성하고, 다른 사용자들의 평가와 리뷰를 확인할 수 있다.
+> "Health Machine Share"는 사용자들이 헬스 머신에 대한 평가와 리뷰를 관리하고 공유할 수 있는 웹 기반 프로그램이다. 사용자들은 다양한 종류의 헬스 머신에 대한 평가와 리뷰를 작성하고, 다른 사용자들의 평가와 리뷰를 확인할 수 있다.
 
 ## 기술 스택
 ![image](https://github.com/joon6093/Health-Machine-Share/assets/118044367/44a240ea-0bfd-453c-a6e0-af0f1b6eb936)
