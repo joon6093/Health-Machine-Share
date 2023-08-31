@@ -28,4 +28,4 @@
 
 
 ## 추가 자료 
-[Velog 보고서 주소](https://github.com/joon6093/Health-Machine-Share/blob/main/%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+[보고서 링크](https://github.com/joon6093/Health-Machine-Share/blob/main/%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
